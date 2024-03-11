@@ -1,7 +1,5 @@
 import requests
-import warnings ,time
 import urllib3
-import concurrent.futures
 urllib3.disable_warnings()
 
 headers = {
